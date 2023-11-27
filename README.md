@@ -1,6 +1,6 @@
 # My CV
 
-[my photo](35b8625e924676cfeba7b2e9d4690e60.jpg)
+![my photo](35b8625e924676cfeba7b2e9d4690e60.jpg)
  
 ## Name: Gray
 ## Contact details:
