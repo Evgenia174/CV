@@ -1,10 +1,10 @@
 # **My CV**
 
-[[my photo](35b8625e924676cfeba7b2e9d4690e60.jpg)]
+[[my photo](https://koshka.top/uploads/posts/2021-12/1640117045_54-koshka-top-p-mein-kun-serii-58.jpg)](https://koshka.top/uploads/posts/2021-12/1640117045_54-koshka-top-p-mein-kun-serii-58.jpg)
  
 ## **Name:** Gray
 ## **Contact details:**
-+ _E-mail:_</u> Gray-good-cat@gmail.com
++ _E-mail:_ Gray-good-cat@gmail.com
 + _Phone number:_ +78888888888
 + _Address:_ Chelyabinsk, The best people alley, ap. 3/4
 ## **Education**:
@@ -23,10 +23,10 @@
    + Big, fluffy belly — it's comfortable to sleep on or nice to scratch
 ## **Projects:**
    1) The Night Watch project: Patrolling the territory of the house to identify potential threats in the form of rodents and insects.
-       *During the project*, 5 mouse families and 2 cockroach nests were discovered and destroyed.
-   2) Super-Duper project: Development and implementation of a space optimization system by folding all objects in one place (under the bed or behind the sofa).
+       *During the project*, 5 mouse families and 2 cockroach nests were discovered and destroyed.\n
+   2) Super-Duper project: Development and implementation of a space optimization system by folding all objects in one place (under the bed or behind the sofa).\n
        *The result:* the house has become cleaner, but the search for lost things has become more complicated.
-   3) The project "Cat fitness": The development of a set of exercises to maintain physical fitness and health. The program includes jumping, running, climbing curtains and trees in the yard, as well as training with a laser pointer.
+   3) The project "Cat fitness": The development of a set of exercises to maintain physical fitness and health. The program includes jumping, running, climbing curtains and trees in the yard, as well as training with a laser pointer.\n
        *Results:* the cat is in great shape, the owners have become healthier because of laughter.
 
 ## [Video-presentation](https://youtube.com/shorts/eXwplb6mJGY?si=h-L_4ynfWAGO_9K9/ "click here")
