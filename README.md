@@ -1,17 +1,20 @@
-# **My CV**
+# My CV
 
-[[my photo](https://koshka.top/uploads/posts/2021-12/1640117045_54-koshka-top-p-mein-kun-serii-58.jpg)](https://koshka.top/uploads/posts/2021-12/1640117045_54-koshka-top-p-mein-kun-serii-58.jpg)
+[my photo](35b8625e924676cfeba7b2e9d4690e60.jpg)
  
-## **Name:** Gray
-## **Contact details:**
+## Name: Gray
+## Contact details:
 + _E-mail:_ Gray-good-cat@gmail.com
 + _Phone number:_ +78888888888
 + _Address:_ Chelyabinsk, The best people alley, ap. 3/4
+
 ## **Education**:
 + _2013-2019:_ Chelyabinsk University of Good Cats
 + _2023 to current days:_ JS developer in Netologia
+
 ## **Work experience:**
 + _2012 to current days:_ senior pet management manager; Chief Relaxation and Entertainment Specialist.
+
 ## **Skills:**
    + Master of Sleep
    + Professional hunter
